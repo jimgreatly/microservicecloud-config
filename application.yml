@@ -1,4 +1,4 @@
-spring:
+spring: 
  profiles: 
   active: 
    - dev
@@ -8,7 +8,7 @@ spirng:
  application: 
   name: microservicecloud-config-yjt-dev
 ---
-spring:
+spring: 
  profiles: test	#测试环境
- application:
+ application: 
   name: microservicecloud-config-yjt-test
